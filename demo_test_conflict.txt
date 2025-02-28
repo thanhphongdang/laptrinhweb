@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hgdfgdhs
+=======
+Tạo branch demo kiểm tra conflict
+>>>>>>> demo_test_conflict
